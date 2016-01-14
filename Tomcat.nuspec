@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Tomcat</id>
+	<version>0.0.0</version>
+    <authors>Jason Duffett</authors>
+    <owners>Jason Duffett</owners>
+    <licenseUrl>http://jasonduffett.net</licenseUrl>
+    <projectUrl>http://jasonduffett.net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tomcat Service</description>
+    <copyright>Copyright 2012</copyright>
+    <tags>Tomcat</tags>
+  </metadata>
+  <files>
+	<file src="deployment\**" />
+	<file src="artifacts\publish\**" />
+  </files>
+</package>
